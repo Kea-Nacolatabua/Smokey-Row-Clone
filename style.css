@@ -1,0 +1,49 @@
+    body {
+        background-color: #E6CA98;
+        font-family: Pupcat,cursive;
+        margin: 0 0;
+        font-size: 32px;
+        box-sizing: border-box;
+        
+    }
+    .container {
+        border-bottom: 3px solid black;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        padding: 20px;
+        
+    
+    }
+    .Nav-items {
+        padding: 20px;
+        }
+    .pic {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .photo {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .photo img {
+        border: 20px solid #F0E1C4; 
+       
+    }
+    .photo-text {
+        
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
+        text-align: center;
+        font-size: 16px;
+    }
+    .photo-text h4 {
+        font-size: 24px;
+        text-align: center;
+    }
+
+
+    
